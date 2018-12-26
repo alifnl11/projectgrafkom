@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3029a7e3c887e040bbaf32fde4494e7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - NoPit: {fileID: 4159900230466614, guid: 90b6f7ee225cd6c4e9e47a44bb208e48, type: 2}
+  - RightPit: {fileID: 4545334627019736, guid: c8f084172b43b964392c083d99ac1e21, type: 2}
+  - LeftPit: {fileID: 4237254021055502, guid: 319b98f1adcd07e4a836224ceb7266c6, type: 2}
+  - MidPit: {fileID: 4485797614279794, guid: 0cb43c2b588eb1f45adae0d30c21dbc3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
